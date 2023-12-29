@@ -4,7 +4,12 @@ Hi 👋 My name is Leonardo Müller
 Software Developer
 ------------------
 
-Hey there! An engineer with a passion for technology and a journey that began in the world of electrical engineering. While pursuing my degree, I initially delved into the realms of embedded systems and automation. However, my curiosity led me to explore the dynamic world of software development. Fast forward to today, and I find myself thriving in the full-stack development landscape. My backend skills are honed with PHP, crafting robust and scalable solutions, while on the frontend, I leverage the power of Vue.js to create seamless user experiences. Excitingly, my journey doesn't stop there. I'm currently diving deep into the world of Go Lang, driven by the desire to enhance my backend prowess.
+
+Hello! I hold a degree in Electrical Engineering with a focus on Telecommunications. Throughout my academic journey, I initially delved into embedded systems and automation. However, my curiosity led me to the dynamic world of software development.
+
+As a current full-stack professional, I dedicate my efforts to enhancing backend capabilities, primarily using PHP. This choice enables me to craft robust and scalable solutions. On the frontend, I strive to deliver seamless user experiences, leveraging the power of Vue.js.
+
+Presently, I am delving into the realm of Go Lang, driven by the desire to strengthen my backend development skills. I am excited to continue exploring new opportunities and challenges on this fascinating software development journey.
 
 * 🌍  I'm based in Juiz de Fora, Minas Gerais - Brazil
 * ✉️  You can contact me at [leonardo.muller@engenharia.ufjf.br](mailto:leonardo.muller@engenharia.ufjf.br)
