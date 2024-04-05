@@ -5,11 +5,10 @@ Software Developer
 ------------------
 
 
-Hello! I hold a degree in Electrical Engineering with a focus on Telecommunications. Throughout my academic journey, I initially delved into embedded systems and automation. However, my curiosity led me to the dynamic world of software development.
 
-As a current full-stack professional, I dedicate my efforts to enhancing backend capabilities, primarily using PHP. This choice enables me to craft robust and scalable solutions. On the frontend, I strive to deliver seamless user experiences, leveraging the power of Vue.js.
+Graduated in Electrical Engineering with an emphasis on Telecommunications, initially I got involved with embedded systems and automation at the beginning of my graduation, but ended up going down the path of software development.
 
-Presently, I am delving into the realm of Go Lang, driven by the desire to strengthen my backend development skills. I am excited to continue exploring new opportunities and challenges on this fascinating software development journey.
+Currently, I work as a full-stack developer but I'm seeking to enrich my knowledge in Go Lang, improving my skills in backend development.
 
 * 🌍  I'm based in Juiz de Fora, Minas Gerais - Brazil
 * ✉️  You can contact me at [leonardo.muller@engenharia.ufjf.br](mailto:leonardo.muller@engenharia.ufjf.br)
